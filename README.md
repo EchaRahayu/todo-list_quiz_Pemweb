@@ -49,16 +49,16 @@ Dibuat sebagai tugas pembelajaran pengembangan aplikasi web menggunakan React.js
 ## Dokumentasi Aplikasi
 
 ### 1. Tampilan Utama
-![Tampilan Utama](screenshots/Tampilan-Utama.png)
+![Tampilan Utama](screenshoots/Tampilan-Utama.png)
 
 ### 2. Tambah Tugas
-![Tambah Tugas](screenshots/Tambah-Tugas.png)
+![Tambah Tugas](screenshoots/Tambah-Tugas.png)
 
 ### 3. Detail Tugas
-![Detail Tugas](screenshots/Detail-Tugas.png)
+![Detail Tugas](screenshoots/Detail-Tugas.png)
 
 ### 4. Edit Tugas
-![Edit Tugas](screenshots/Edit-Tugas.png)
+![Edit Tugas](screenshoots/Edit-Tugas.png)
 
 ### 5. Hapus Tugas
-![Hapus Tugas](screenshots/Hapus-Tugas.png)
+![Hapus Tugas](screenshoots/Hapus-Tugas.png)
