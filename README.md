@@ -44,3 +44,21 @@ Aplikasi ini dibuat untuk membantu pengguna mengatur tugas, menentukan prioritas
 
 ## Pengembang
 Dibuat sebagai tugas pembelajaran pengembangan aplikasi web menggunakan React.js.
+
+
+## Dokumentasi Aplikasi
+
+### 1. Tampilan Utama
+![Tampilan Utama](screenshots/Tampilan-Utama.png)
+
+### 2. Tambah Tugas
+![Tambah Tugas](screenshots/Tambah-Tugas.png)
+
+### 3. Detail Tugas
+![Detail Tugas](screenshots/Detail-Tugas.png)
+
+### 4. Edit Tugas
+![Edit Tugas](screenshots/Edit-Tugas.png)
+
+### 5. Hapus Tugas
+![Hapus Tugas](screenshots/Hapus-Tugas.png)
